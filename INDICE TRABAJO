@@ -1,0 +1,82 @@
+TFM – APLICACIÓN DEL DATA SCIENCE EN LAS ESTADISTICAS DEL GOLF
+
+Indice:
+Por supuesto, aquí tienes un índice detallado para tu trabajo de fin de máster sobre el análisis de estadísticas avanzadas en el golf:
+Índice
+1. **Introducción**
+   - Contexto y justificación del estudio
+   - Objetivos y alcance del trabajo
+   - Metodología y fuentes de datos
+   
+2. **Descripción de los Datos**
+Número de identificador del jugador: Cada jugador en el PGA Tour recibe un número único que los identifica en las estadísticas. Esto ayuda a hacer un seguimiento de su desempeño a lo largo del tiempo.
+
+Nombre del jugador: El nombre completo del golfista que compite en el torneo.
+
+Rondas: La cantidad de partidas de golf jugadas por un jugador en un año. Esto refleja cuántas veces ha salido al campo a competir.
+
+Porcentaje de calles: Este porcentaje muestra cuántos de los golpes de salida de un jugador aterrizaron en la parte designada del campo, llamada "calle". Un porcentaje alto significa una precisión sólida en los golpes de salida.
+
+Distancia media Driver: Es la distancia promedio que un jugador alcanza con su golpe de salida más largo, conocido como "driver". Muestra la potencia del jugador desde el tee.
+
+Victorias: Representa cuántos torneos ha ganado el jugador en un año. Indica su éxito en competencias.
+
+Top 10: El número de veces que un jugador ha terminado entre los diez primeros puestos en torneos. Refleja la consistencia en su desempeño.
+
+Dinero: La cantidad total de premios en efectivo que un jugador ha ganado en torneos durante el año. Es un indicador financiero del éxito.
+
+Puntos FEDEX: Los puntos que un jugador acumula en el sistema de clasificación FedExCup a lo largo del año. Mayor cantidad de puntos refleja un buen rendimiento.
+
+GIR (Greenes en Regulación): Muestra qué proporción de veces el jugador alcanza el green en el número esperado de golpes. Un alto porcentaje indica precisión en los golpes de aproximación.
+
+Scrambling promedio (SCAVG): Representa cuántas veces el jugador salva el par después de no alcanzar el green en regulación. Indica habilidad en situaciones desafiantes.
+
+Putts promedio: Es el número promedio de intentos necesarios para embocar la bola en el hoyo. Muestra habilidad en el juego corto.
+
+SG PUTTING (Putts promedio de SG): Indica cuántos golpes el jugador gana o pierde en los greens en comparación con la media. Destaca la eficiencia en el juego corto.
+
+Promedio de SG Total: Es la combinación de estadísticas de golpes ganados en diferentes aspectos del juego. Refleja el desempeño general del jugador.
+
+SG:APR (Golpes ganados en aproximación al green): Indica cuántos golpes el jugador gana o pierde en los golpes de aproximación al green. Muestra precisión en la parte intermedia del juego.
+
+SG:ARG (Golpes ganados alrededor del green): Representa cuántos golpes el jugador gana o pierde en los golpes cercanos al green. Refleja habilidades de recuperación.
+
+SG:TTG (Golpes ganados en tiros desde el tee hasta el green): Indica cuántos golpes el jugador gana o pierde desde el golpe de salida hasta alcanzar el green. Destaca la combinación de precisión y distancia.
+
+Par 3 Performance: Evalúa el rendimiento del jugador en los hoyos más cortos del campo. Muestra cómo maneja los desafíos específicos de los hoyos de par 3.
+
+Par 4 Performance : Evalúa el rendimiento del jugador en los hoyos de longitud intermedia (par 4). Indican su capacidad en diferentes distancias.
+
+Par 5 Performance: Evalúan el rendimiento del jugador en los hoyos de longitud larga (par 5). Indican su capacidad en diferentes distancias.
+
+Año: El año en el que se recopilaron las estadísticas. Permite comparar el progreso del jugador a lo largo del tiempo.
+
+3. **Análisis Exploratorio de Datos**
+   - Distribuciones, estadísticas descriptivas y gráficos para cada variable
+   - Identificación de valores atípicos o anomalías
+   - Análisis de relaciones entre variables mediante correlaciones y visualizaciones
+   
+4. **Análisis y Conclusiones por Categorías**
+   - Desglose de análisis para cada variable categórica (por ejemplo, año)
+   - Interpretación de patrones y tendencias a lo largo de diferentes categorías
+   
+5. **Modelos y Predicciones**
+   - Posible construcción de modelos predictivos o de regresión relacionados con las estadísticas
+   - Evaluación del rendimiento de los modelos y su utilidad en la predicción de resultados
+   
+6. **Discusión de Resultados**
+   - Interpretación de hallazgos clave
+   - Comparación de jugadores destacados y su desempeño en diferentes estadísticas
+    
+7. **Conclusiones**
+   - Resumen de los resultados más relevantes
+   - Logros del estudio en relación con los objetivos planteados
+   - Importancia y relevancia de las estadísticas avanzadas en el golf
+
+8. **Otros/Curiosidades**
+   
+9. **Referencias**
+   - Citas bibliográficas y fuentes consultadas para el trabajo
+   
+10. **Apéndices**
+    - Detalles técnicos adicionales, tablas completas de datos, gráficos adicionales, entre otros
