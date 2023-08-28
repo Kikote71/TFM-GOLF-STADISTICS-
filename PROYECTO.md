@@ -27,7 +27,7 @@ Modelado estadístico, incluyendo análisis multivariable, regresión y análisi
 Machine learning, empleando algoritmos como regresión lineal, árboles de decisión, SVM (Support Vector Machines) u otros relevantes para la problemática abordada.
 
 Fuentes para obtención de datos:
-https://shotlink.com/ (Es el repositorio de datos de la propia PGA, tengo que solicitar acceso)
+https://shotlink.com/ 
 https://golf.golfdatalab.com/ 
 https://datagolf.com/
 https://shotstohole.com/
